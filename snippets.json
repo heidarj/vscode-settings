@@ -1,0 +1,10 @@
+{
+	"variables": {
+
+	},
+	"html": {
+		"snippets": {
+			"html": "html>(head>meta[charset=${charset}]+title{${1:Document}})+body"
+		}
+	}
+}
